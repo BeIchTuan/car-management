@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuanb\\source\\repos\\car-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|c:\\users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\phieusuachua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\phieusuachua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\customer\\lichsusuaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\customer\\lichsusuaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\phieutiepnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\phieutiepnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\danhsachxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\danhsachxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\danhsachdoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\danhsachdoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\customer\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\customer\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\customer\\thongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\customer\\thongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\suathongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\suathongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\admin\\suathongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\admin\\suathongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\danhsachbaocaoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\danhsachbaocaoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|C:\\Users\\tuanb\\source\\repos\\car-management\\csm project\\forms\\employee\\baocaoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A30684C-8D1E-4641-AC7F-67D646D55CD2}|CSM Project\\CSM Project.csproj|solutionrelative:csm project\\forms\\employee\\baocaoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 216,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhieuSuaChua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\PhieuSuaChua.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\PhieuSuaChua.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\PhieuSuaChua.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\PhieuSuaChua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:41:49.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LichSuSuaXe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\LichSuSuaXe.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Customer\\LichSuSuaXe.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\LichSuSuaXe.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Customer\\LichSuSuaXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:29:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThongTinKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\ThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Customer\\ThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\ThongTinKhachHang.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Customer\\ThongTinKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:21:05.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\Menu.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Customer\\Menu.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Customer\\Menu.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Customer\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:07:48.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongTin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\ThongTin.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\ThongTin.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\ThongTin.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\ThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:06:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\Menu.Designer.cs",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:47:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachXe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\DanhSachXe.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\DanhSachXe.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\DanhSachXe.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\DanhSachXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:01:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\DangNhap.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\DangNhap.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:58:21.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhieuTiepNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\PhieuTiepNhan.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\PhieuTiepNhan.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\PhieuTiepNhan.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\PhieuTiepNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:54:55.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\ThemNhanVien.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\ThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\ThemNhanVien.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\ThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:53:44.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoanhSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DoanhSo.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\DoanhSo.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DoanhSo.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\DoanhSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:53:18.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachDoanhSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DanhSachDoanhSo.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\DanhSachDoanhSo.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DanhSachDoanhSo.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\DanhSachDoanhSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:52:59.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuaThongTinNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAADgv6EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:49:57.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DanhSachBaoCaoTon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\DanhSachBaoCaoTon.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\DanhSachBaoCaoTon.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\DanhSachBaoCaoTon.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\DanhSachBaoCaoTon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:46:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuaThongTinNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\SuaThongTinNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:46:52.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaoCaoTon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\BaoCaoTon.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\BaoCaoTon.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\BaoCaoTon.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\BaoCaoTon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:46:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DanhSachNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\DanhSachNhanVien.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\DanhSachNhanVien.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\DanhSachNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:46:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\Menu.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Admin\\Menu.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Admin\\Menu.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Admin\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:27:24.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\Menu.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\Employee\\Menu.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\Employee\\Menu.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\Employee\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:39:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\DangKi.cs",
+              "RelativeDocumentMoniker": "CSM Project\\Forms\\DangKi.cs",
+              "ToolTip": "C:\\Users\\tuanb\\source\\repos\\car-management\\CSM Project\\Forms\\DangKi.cs [Design]",
+              "RelativeToolTip": "CSM Project\\Forms\\DangKi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:46:26.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

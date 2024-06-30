@@ -135,6 +135,30 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="DatabaseConnect.cs" />
+    <Compile Include="Forms\Admin\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customer\LichSuSuaXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customer\LichSuSuaXe.Designer.cs">
+      <DependentUpon>LichSuSuaXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customer\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customer\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customer\ThongTinKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customer\ThongTinKhachHang.Designer.cs">
+      <DependentUpon>ThongTinKhachHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\DangKi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -147,139 +171,151 @@
     <Compile Include="Forms\DangNhap.Designer.cs">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="BaoCaoTon.cs">
+    <Compile Include="Forms\Employee\BaoCaoTon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BaoCaoTon.Designer.cs">
+    <Compile Include="Forms\Employee\BaoCaoTon.Designer.cs">
       <DependentUpon>BaoCaoTon.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachBaoCaoTon.cs">
+    <Compile Include="Forms\Employee\DanhSachBaoCaoTon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachBaoCaoTon.Designer.cs">
+    <Compile Include="Forms\Employee\DanhSachBaoCaoTon.Designer.cs">
       <DependentUpon>DanhSachBaoCaoTon.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachPhieuSuaChua.cs">
+    <Compile Include="Forms\Employee\DanhSachPhieuSuaChua.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachPhieuSuaChua.Designer.cs">
+    <Compile Include="Forms\Employee\DanhSachPhieuSuaChua.Designer.cs">
       <DependentUpon>DanhSachPhieuSuaChua.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachNhanVien.cs">
+    <Compile Include="Forms\Admin\DanhSachNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachNhanVien.Designer.cs">
+    <Compile Include="Forms\Admin\DanhSachNhanVien.Designer.cs">
       <DependentUpon>DanhSachNhanVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachXe.cs">
+    <Compile Include="Forms\Employee\DanhSachXe.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachXe.Designer.cs">
+    <Compile Include="Forms\Employee\DanhSachXe.Designer.cs">
       <DependentUpon>DanhSachXe.cs</DependentUpon>
     </Compile>
-    <Compile Include="ChinhSuaThongTin.cs">
+    <Compile Include="Forms\Admin\SuaThongTinNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ChinhSuaThongTin.Designer.cs">
-      <DependentUpon>ChinhSuaThongTin.cs</DependentUpon>
+    <Compile Include="Forms\Admin\SuaThongTinNhanVien.Designer.cs">
+      <DependentUpon>SuaThongTinNhanVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachDoanhSo.cs">
+    <Compile Include="Forms\Admin\DanhSachDoanhSo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachDoanhSo.Designer.cs">
+    <Compile Include="Forms\Admin\DanhSachDoanhSo.Designer.cs">
       <DependentUpon>DanhSachDoanhSo.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemNhanVien.cs">
+    <Compile Include="Forms\Admin\ThemNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ThemNhanVien.Designer.cs">
+    <Compile Include="Forms\Admin\ThemNhanVien.Designer.cs">
       <DependentUpon>ThemNhanVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThongTin.cs">
+    <Compile Include="Forms\Employee\ThongTin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ThongTin.Designer.cs">
+    <Compile Include="Forms\Employee\ThongTin.Designer.cs">
       <DependentUpon>ThongTin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Menu.cs">
+    <Compile Include="Forms\Employee\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.cs">
+    <Compile Include="Forms\Employee\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="PhieuTiepNhan.cs">
+    <Compile Include="Forms\Employee\PhieuTiepNhan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PhieuTiepNhan.Designer.cs">
+    <Compile Include="Forms\Employee\PhieuTiepNhan.Designer.cs">
       <DependentUpon>PhieuTiepNhan.cs</DependentUpon>
     </Compile>
-    <Compile Include="PhieuThuTien.cs">
+    <Compile Include="Forms\Employee\PhieuThuTien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PhieuThuTien.Designer.cs">
+    <Compile Include="Forms\Employee\PhieuThuTien.Designer.cs">
       <DependentUpon>PhieuThuTien.cs</DependentUpon>
     </Compile>
-    <Compile Include="PhieuSuaChua.cs">
+    <Compile Include="Forms\Employee\PhieuSuaChua.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PhieuSuaChua.Designer.cs">
+    <Compile Include="Forms\Employee\PhieuSuaChua.Designer.cs">
       <DependentUpon>PhieuSuaChua.cs</DependentUpon>
     </Compile>
-    <Compile Include="DoanhSo.cs">
+    <Compile Include="Forms\Admin\DoanhSo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DoanhSo.Designer.cs">
+    <Compile Include="Forms\Admin\DoanhSo.Designer.cs">
       <DependentUpon>DoanhSo.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="redundantData.cs" />
+    <EmbeddedResource Include="Forms\Admin\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customer\LichSuSuaXe.resx">
+      <DependentUpon>LichSuSuaXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customer\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customer\ThongTinKhachHang.resx">
+      <DependentUpon>ThongTinKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\DangKi.resx">
       <DependentUpon>DangKi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="BaoCaoTon.resx">
+    <EmbeddedResource Include="Forms\Employee\BaoCaoTon.resx">
       <DependentUpon>BaoCaoTon.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachBaoCaoTon.resx">
+    <EmbeddedResource Include="Forms\Employee\DanhSachBaoCaoTon.resx">
       <DependentUpon>DanhSachBaoCaoTon.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachPhieuSuaChua.resx">
+    <EmbeddedResource Include="Forms\Employee\DanhSachPhieuSuaChua.resx">
       <DependentUpon>DanhSachPhieuSuaChua.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachNhanVien.resx">
+    <EmbeddedResource Include="Forms\Admin\DanhSachNhanVien.resx">
       <DependentUpon>DanhSachNhanVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachXe.resx">
+    <EmbeddedResource Include="Forms\Employee\DanhSachXe.resx">
       <DependentUpon>DanhSachXe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ChinhSuaThongTin.resx">
-      <DependentUpon>ChinhSuaThongTin.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\Admin\SuaThongTinNhanVien.resx">
+      <DependentUpon>SuaThongTinNhanVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachDoanhSo.resx">
+    <EmbeddedResource Include="Forms\Admin\DanhSachDoanhSo.resx">
       <DependentUpon>DanhSachDoanhSo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemNhanVien.resx">
+    <EmbeddedResource Include="Forms\Admin\ThemNhanVien.resx">
       <DependentUpon>ThemNhanVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThongTin.resx">
+    <EmbeddedResource Include="Forms\Employee\ThongTin.resx">
       <DependentUpon>ThongTin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
+    <EmbeddedResource Include="Forms\Employee\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PhieuTiepNhan.resx">
+    <EmbeddedResource Include="Forms\Employee\PhieuTiepNhan.resx">
       <DependentUpon>PhieuTiepNhan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PhieuThuTien.resx">
+    <EmbeddedResource Include="Forms\Employee\PhieuThuTien.resx">
       <DependentUpon>PhieuThuTien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PhieuSuaChua.resx">
+    <EmbeddedResource Include="Forms\Employee\PhieuSuaChua.resx">
       <DependentUpon>PhieuSuaChua.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DoanhSo.resx">
+    <EmbeddedResource Include="Forms\Admin\DoanhSo.resx">
       <DependentUpon>DoanhSo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -341,6 +377,8 @@
     <None Include="Resources\financial-profit2.png" />
     <None Include="Resources\staff.png" />
     <None Include="Resources\diskette.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\Car Accessory.png" />
     <Content Include="Screenshot %28135%29.ico" />
     <Content Include="Screenshot__135_-removebg-preview %283%29.ico" />
   </ItemGroup>

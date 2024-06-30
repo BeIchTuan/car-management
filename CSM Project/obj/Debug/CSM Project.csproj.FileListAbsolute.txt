@@ -1,0 +1,58 @@
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\CSM Project.exe.config
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\CSM Project.exe
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\CSM Project.pdb
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\Google.Protobuf.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\MySql.Data.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Buffers.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Memory.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\ZstdSharp.dll
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\Google.Protobuf.pdb
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\Google.Protobuf.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\MySql.Data.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Buffers.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Memory.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Project.csproj.AssemblyReference.cache
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DangKi.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DangNhap.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.BaoCaoTon.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DanhSachBaoCaoTon.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DanhSachPhieuSuaChua.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DanhSachNhanVien.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DanhSachXe.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DanhSachDoanhSo.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.ThemNhanVien.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.ThongTin.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.Menu.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.PhieuTiepNhan.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.PheuThuTien.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.PhieuSuaChua.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.DoanhSo.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.Properties.Resources.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Project.csproj.GenerateResource.cache
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Project.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Proj.924ABC14.Up2Date
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Project.exe
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM Project.pdb
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.Forms.Admin.Menu.resources
+C:\Users\tuanb\source\repos\car-management\CSM Project\obj\Debug\CSM_Project.SuaThongTinNhanVien.resources

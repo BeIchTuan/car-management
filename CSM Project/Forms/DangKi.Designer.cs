@@ -185,7 +185,7 @@ namespace CSM_Project
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(120)))), ((int)(((byte)(161)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(186)))), ((int)(((byte)(253)))));
             this.ClientSize = new System.Drawing.Size(1013, 477);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button_dangki);

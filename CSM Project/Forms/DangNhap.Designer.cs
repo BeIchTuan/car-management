@@ -32,22 +32,22 @@
             this.exitBtn = new System.Windows.Forms.Button();
             this.pinBox = new System.Windows.Forms.TextBox();
             this.pinPnl = new System.Windows.Forms.Panel();
+            this.lockImage = new System.Windows.Forms.PictureBox();
+            this.pinErrorIcon = new System.Windows.Forms.PictureBox();
             this.nameBox = new System.Windows.Forms.TextBox();
             this.namePnl = new System.Windows.Forms.Panel();
+            this.nameErrorIcon = new System.Windows.Forms.PictureBox();
+            this.userImage = new System.Windows.Forms.PictureBox();
             this.logBtn = new System.Windows.Forms.Button();
             this.button_dangki = new System.Windows.Forms.Button();
             this.circularPictureBox1 = new CSM_Project.CircularPictureBox();
-            this.nameErrorIcon = new System.Windows.Forms.PictureBox();
-            this.userImage = new System.Windows.Forms.PictureBox();
-            this.pinErrorIcon = new System.Windows.Forms.PictureBox();
-            this.lockImage = new System.Windows.Forms.PictureBox();
             this.pinPnl.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.lockImage)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pinErrorIcon)).BeginInit();
             this.namePnl.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.circularPictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nameErrorIcon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.userImage)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pinErrorIcon)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lockImage)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.circularPictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // exitBtn
@@ -99,6 +99,30 @@
             this.pinPnl.Size = new System.Drawing.Size(387, 59);
             this.pinPnl.TabIndex = 37;
             // 
+            // lockImage
+            // 
+            this.lockImage.BackColor = System.Drawing.Color.White;
+            this.lockImage.Image = global::CSM_Project.Properties.Resources.padlock;
+            this.lockImage.Location = new System.Drawing.Point(0, 0);
+            this.lockImage.Margin = new System.Windows.Forms.Padding(4);
+            this.lockImage.Name = "lockImage";
+            this.lockImage.Size = new System.Drawing.Size(69, 59);
+            this.lockImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.lockImage.TabIndex = 24;
+            this.lockImage.TabStop = false;
+            // 
+            // pinErrorIcon
+            // 
+            this.pinErrorIcon.BackColor = System.Drawing.Color.White;
+            this.pinErrorIcon.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pinErrorIcon.BackgroundImage")));
+            this.pinErrorIcon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pinErrorIcon.Location = new System.Drawing.Point(351, 14);
+            this.pinErrorIcon.Margin = new System.Windows.Forms.Padding(4);
+            this.pinErrorIcon.Name = "pinErrorIcon";
+            this.pinErrorIcon.Size = new System.Drawing.Size(25, 36);
+            this.pinErrorIcon.TabIndex = 42;
+            this.pinErrorIcon.TabStop = false;
+            // 
             // nameBox
             // 
             this.nameBox.BackColor = System.Drawing.Color.White;
@@ -128,6 +152,31 @@
             this.namePnl.Name = "namePnl";
             this.namePnl.Size = new System.Drawing.Size(387, 59);
             this.namePnl.TabIndex = 36;
+            // 
+            // nameErrorIcon
+            // 
+            this.nameErrorIcon.BackColor = System.Drawing.Color.Transparent;
+            this.nameErrorIcon.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("nameErrorIcon.BackgroundImage")));
+            this.nameErrorIcon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.nameErrorIcon.Location = new System.Drawing.Point(351, 11);
+            this.nameErrorIcon.Margin = new System.Windows.Forms.Padding(4);
+            this.nameErrorIcon.Name = "nameErrorIcon";
+            this.nameErrorIcon.Size = new System.Drawing.Size(25, 36);
+            this.nameErrorIcon.TabIndex = 41;
+            this.nameErrorIcon.TabStop = false;
+            // 
+            // userImage
+            // 
+            this.userImage.BackColor = System.Drawing.Color.Transparent;
+            this.userImage.Cursor = System.Windows.Forms.Cursors.Default;
+            this.userImage.Image = global::CSM_Project.Properties.Resources.people;
+            this.userImage.Location = new System.Drawing.Point(0, 0);
+            this.userImage.Margin = new System.Windows.Forms.Padding(4);
+            this.userImage.Name = "userImage";
+            this.userImage.Size = new System.Drawing.Size(69, 59);
+            this.userImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.userImage.TabIndex = 24;
+            this.userImage.TabStop = false;
             // 
             // logBtn
             // 
@@ -177,60 +226,11 @@
             this.circularPictureBox1.TabIndex = 40;
             this.circularPictureBox1.TabStop = false;
             // 
-            // nameErrorIcon
-            // 
-            this.nameErrorIcon.BackColor = System.Drawing.Color.Transparent;
-            this.nameErrorIcon.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("nameErrorIcon.BackgroundImage")));
-            this.nameErrorIcon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.nameErrorIcon.Location = new System.Drawing.Point(351, 11);
-            this.nameErrorIcon.Margin = new System.Windows.Forms.Padding(4);
-            this.nameErrorIcon.Name = "nameErrorIcon";
-            this.nameErrorIcon.Size = new System.Drawing.Size(25, 36);
-            this.nameErrorIcon.TabIndex = 41;
-            this.nameErrorIcon.TabStop = false;
-            // 
-            // userImage
-            // 
-            this.userImage.BackColor = System.Drawing.Color.Transparent;
-            this.userImage.Cursor = System.Windows.Forms.Cursors.Default;
-            this.userImage.Image = global::CSM_Project.Properties.Resources.people;
-            this.userImage.Location = new System.Drawing.Point(0, 0);
-            this.userImage.Margin = new System.Windows.Forms.Padding(4);
-            this.userImage.Name = "userImage";
-            this.userImage.Size = new System.Drawing.Size(69, 59);
-            this.userImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.userImage.TabIndex = 24;
-            this.userImage.TabStop = false;
-            // 
-            // pinErrorIcon
-            // 
-            this.pinErrorIcon.BackColor = System.Drawing.Color.Transparent;
-            this.pinErrorIcon.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pinErrorIcon.BackgroundImage")));
-            this.pinErrorIcon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pinErrorIcon.Location = new System.Drawing.Point(351, 12);
-            this.pinErrorIcon.Margin = new System.Windows.Forms.Padding(4);
-            this.pinErrorIcon.Name = "pinErrorIcon";
-            this.pinErrorIcon.Size = new System.Drawing.Size(25, 36);
-            this.pinErrorIcon.TabIndex = 42;
-            this.pinErrorIcon.TabStop = false;
-            // 
-            // lockImage
-            // 
-            this.lockImage.BackColor = System.Drawing.Color.White;
-            this.lockImage.Image = global::CSM_Project.Properties.Resources.padlock;
-            this.lockImage.Location = new System.Drawing.Point(0, 0);
-            this.lockImage.Margin = new System.Windows.Forms.Padding(4);
-            this.lockImage.Name = "lockImage";
-            this.lockImage.Size = new System.Drawing.Size(69, 59);
-            this.lockImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.lockImage.TabIndex = 24;
-            this.lockImage.TabStop = false;
-            // 
             // DangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(120)))), ((int)(((byte)(161)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(186)))), ((int)(((byte)(253)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(795, 682);
             this.Controls.Add(this.button_dangki);
@@ -247,13 +247,13 @@
             this.Text = "Log In";
             this.pinPnl.ResumeLayout(false);
             this.pinPnl.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.lockImage)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pinErrorIcon)).EndInit();
             this.namePnl.ResumeLayout(false);
             this.namePnl.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.circularPictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nameErrorIcon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.userImage)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pinErrorIcon)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lockImage)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.circularPictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
