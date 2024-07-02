@@ -1,4 +1,8 @@
-﻿using MySql.Data.MySqlClient;
+﻿using CSM_Project.Forms.Admin;
+using CSM_Project.Forms.Customer;
+using MySql.Data.MySqlClient;
+using Mysqlx.Session;
+using MySqlX.XDevAPI.Common;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,6 +15,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml;
 
 namespace CSM_Project
 {
@@ -20,7 +25,6 @@ namespace CSM_Project
         {
             InitializeComponent();
             LblVanish();
-
         }
 
         private void nameBox_Enter(object sender, EventArgs e)
@@ -88,16 +92,16 @@ namespace CSM_Project
         }
         private void logBtn_MouseEnter(object sender, EventArgs e)
         {
-            logBtn.FlatAppearance.BorderColor = Color.White;
+            logBtn.FlatAppearance.BorderColor = Color.Blue;
             logBtn.FlatAppearance.BorderSize = 1;
             logBtn.BackColor = Color.FromArgb(34, 36, 49);
-            logBtn.ForeColor = Color.White;
+            //logBtn.ForeColor = Color.Blue;
         }
 
         private void logBtn_MouseLeave(object sender, EventArgs e)
         {
-            logBtn.BackColor = Color.White;
-            logBtn.ForeColor = Color.Black;
+            logBtn.BackColor = Color.Blue;
+            //logBtn.ForeColor = Color.Blue;
         }
 
 
@@ -140,32 +144,20 @@ namespace CSM_Project
             string hashedPassword = HashPassword(password);
 
             string query = "SELECT * FROM NGUOIDUNG " +
-                    "JOIN NHANVIEN NV ON NV.MaNV = NGUOIDUNG.MaNV " +
+                    "LEFT JOIN NHANVIEN NV ON NV.MaNV = NGUOIDUNG.MaNV " +
                     "LEFT JOIN ChuXe CX ON CX.MaCX = NGUOIDUNG.MaCX " +
-                    "WHERE username = @username AND password = @password AND IsDeleted = 0";
+                    "WHERE username = @username AND password = @password";
 
             MySqlParameter[] parameters = new MySqlParameter[]
             {
                 new MySqlParameter("@username", username),
                 new MySqlParameter("@password", hashedPassword)
             };
+        }
 
-            DataTable result = DatabaseConnect.ExecuteQuery(query, parameters);
-
-            if (result.Rows.Count > 0)
-            {
-                // Đăng nhập thành công
-                MessageBox.Show("Đăng nhập thành công!");
-                this.Hide();
-                Menu mainForm = new Menu();
-                mainForm.Show();
-            }
-            else
-            {
-                // Đăng nhập thất bại
-                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng!");
-            }
-
+        private void OpenFormBasedOnRole(string role)
+        {
+            
         }
 
 

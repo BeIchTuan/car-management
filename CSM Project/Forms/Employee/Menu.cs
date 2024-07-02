@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSM_Project.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,9 +14,7 @@ namespace CSM_Project
 {
    
     public partial class Menu : Form
-    {
-       
-        
+    {        
         public Menu()
         {
             InitializeComponent();

@@ -1,6 +1,6 @@
 ﻿namespace CSM_Project.Forms.Customer
 {
-    partial class Menu
+    partial class MenuCustomer
     {
         /// <summary>
         /// Required designer variable.
@@ -29,35 +29,35 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.customerName = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.logoutPanel = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.inforPanel = new System.Windows.Forms.Panel();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label5 = new System.Windows.Forms.Label();
             this.menuPanel = new System.Windows.Forms.Panel();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.label9 = new System.Windows.Forms.Label();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            this.logoutPanel.SuspendLayout();
-            this.inforPanel.SuspendLayout();
-            this.menuPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.logoutPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            this.inforPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            this.menuPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,7 +66,7 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(186)))), ((int)(((byte)(253)))));
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.customerName);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.logoutPanel);
             this.panel1.Controls.Add(this.inforPanel);
@@ -77,6 +77,15 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(267, 547);
             this.panel1.TabIndex = 39;
+            // 
+            // panel2
+            // 
+            this.panel2.AutoSize = true;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel2.Location = new System.Drawing.Point(266, 183);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(787, 10);
+            this.panel2.TabIndex = 59;
             // 
             // label2
             // 
@@ -89,14 +98,26 @@
             this.label2.TabIndex = 58;
             this.label2.Text = "Khách hàng";
             // 
-            // label1
+            // customerName
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(49, 153);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(183, 30);
-            this.label1.TabIndex = 57;
-            this.label1.Text = "Võ Hoàng Tuấn";
+            this.customerName.AutoSize = true;
+            this.customerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.customerName.Location = new System.Drawing.Point(49, 153);
+            this.customerName.Name = "customerName";
+            this.customerName.Size = new System.Drawing.Size(0, 25);
+            this.customerName.TabIndex = 57;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CSM_Project.Properties.Resources.profie;
+            this.pictureBox1.Location = new System.Drawing.Point(54, 13);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(151, 124);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 56;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.UseWaitCursor = true;
             // 
             // logoutPanel
             // 
@@ -124,6 +145,17 @@
             this.label3.TabIndex = 45;
             this.label3.Text = "Đăng xuất";
             // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::CSM_Project.Properties.Resources.log_out;
+            this.pictureBox4.Location = new System.Drawing.Point(30, 28);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(79, 79);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 44;
+            this.pictureBox4.TabStop = false;
+            // 
             // inforPanel
             // 
             this.inforPanel.BackColor = System.Drawing.Color.Transparent;
@@ -135,6 +167,17 @@
             this.inforPanel.Name = "inforPanel";
             this.inforPanel.Size = new System.Drawing.Size(263, 111);
             this.inforPanel.TabIndex = 38;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::CSM_Project.Properties.Resources.infor;
+            this.pictureBox3.Location = new System.Drawing.Point(24, 23);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(84, 79);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 43;
+            this.pictureBox3.TabStop = false;
             // 
             // label5
             // 
@@ -162,6 +205,17 @@
             this.menuPanel.Size = new System.Drawing.Size(263, 111);
             this.menuPanel.TabIndex = 37;
             // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::CSM_Project.Properties.Resources.menu;
+            this.pictureBox6.Location = new System.Drawing.Point(25, 23);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(84, 79);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox6.TabIndex = 42;
+            this.pictureBox6.TabStop = false;
+            // 
             // label9
             // 
             this.label9.AutoSize = true;
@@ -187,51 +241,6 @@
             this.pictureBox7.Size = new System.Drawing.Size(133, 89);
             this.pictureBox7.TabIndex = 40;
             this.pictureBox7.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::CSM_Project.Properties.Resources.profie;
-            this.pictureBox1.Location = new System.Drawing.Point(54, 13);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(151, 124);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 56;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.UseWaitCursor = true;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::CSM_Project.Properties.Resources.log_out;
-            this.pictureBox4.Location = new System.Drawing.Point(30, 28);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(79, 79);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 44;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::CSM_Project.Properties.Resources.infor;
-            this.pictureBox3.Location = new System.Drawing.Point(24, 23);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(84, 79);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 43;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::CSM_Project.Properties.Resources.menu;
-            this.pictureBox6.Location = new System.Drawing.Point(25, 23);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(84, 79);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 42;
-            this.pictureBox6.TabStop = false;
             // 
             // label4
             // 
@@ -268,15 +277,6 @@
             this.label6.Size = new System.Drawing.Size(390, 38);
             this.label6.TabIndex = 63;
             this.label6.Text = "Xin chào, Võ Hoàng Tuấn";
-            // 
-            // panel2
-            // 
-            this.panel2.AutoSize = true;
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel2.Location = new System.Drawing.Point(266, 183);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(787, 10);
-            this.panel2.TabIndex = 59;
             // 
             // button1
             // 
@@ -319,7 +319,7 @@
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // Menu
+            // MenuCustomer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -334,21 +334,21 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.panel1);
-            this.Name = "Menu";
+            this.Name = "MenuCustomer";
             this.Text = "Menu";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.logoutPanel.ResumeLayout(false);
             this.logoutPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.inforPanel.ResumeLayout(false);
             this.inforPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.menuPanel.ResumeLayout(false);
             this.menuPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -359,7 +359,7 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Label customerName;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel logoutPanel;
         private System.Windows.Forms.Label label3;

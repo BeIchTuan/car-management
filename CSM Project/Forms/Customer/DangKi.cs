@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CSM_Project.Forms.Customer
+namespace CSM_Project
 {
-    public partial class Menu : Form
+    public partial class DangKi : Form
     {
-        public Menu()
+        public DangKi()
         {
             InitializeComponent();
         }
