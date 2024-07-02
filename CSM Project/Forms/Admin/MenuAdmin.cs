@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CSM_Project.Forms.Admin
 {
-    public partial class Menu : Form
+    public partial class MenuAdmin : Form
     {
-        public Menu()
+        public MenuAdmin()
         {
             InitializeComponent();
         }

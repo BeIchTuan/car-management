@@ -1,6 +1,6 @@
 ﻿namespace CSM_Project.Forms.Admin
 {
-    partial class Menu
+    partial class MenuAdmin
     {
         /// <summary>
         /// Required designer variable.
